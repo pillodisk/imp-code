@@ -1,5 +1,5 @@
 const axios = require('axios');
-const fileUrl = 'https://www.newline.co/fullstack-react/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf';
+const fileUrl = 'Add Any url';
 const fileSizeInBytes = 10 * 1024 * 1024; // 10MB
 
 const startTimestamp = Date.now();
